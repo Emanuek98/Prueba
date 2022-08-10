@@ -11,6 +11,8 @@ public class oooActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ooo);
-        Toast.makeText(this,"Hola", Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Hola soy emanuel", Toast.LENGTH_LONG).show();
+
+
     }
 }
