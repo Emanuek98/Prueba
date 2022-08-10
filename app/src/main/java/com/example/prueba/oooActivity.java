@@ -13,6 +13,7 @@ public class oooActivity extends AppCompatActivity {
         setContentView(R.layout.activity_ooo);
         Toast.makeText(this,"Hola soy emanuel y adrian hola", Toast.LENGTH_LONG).show();
         Toast.makeText(this,"adsvcsa", Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Hola soy emanuel y adrian hola Mundo", Toast.LENGTH_LONG).show();
 
 
     }
