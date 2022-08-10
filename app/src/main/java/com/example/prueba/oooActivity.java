@@ -18,5 +18,16 @@ public class oooActivity extends AppCompatActivity {
         Toast.makeText(this,"ultima parte", Toast.LENGTH_LONG).show();
 
 
+
+
+
+
+
+
+
+
+        Toast.makeText(this,"Hola soy emanuel y adrian hola Mundo", Toast.LENGTH_LONG).show();
+
+
     }
 }
